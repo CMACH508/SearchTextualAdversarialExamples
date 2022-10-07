@@ -2,5 +2,5 @@ resources/datasets/*_train
 resources/victim_models
 resources/encoder_models
 results
-*/__pychache__
+*/__pycache__
 
